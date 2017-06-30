@@ -1,2 +1,2 @@
 # Document-A
-Public notes
+Personal notes
