@@ -1,2 +1,2 @@
-# Document-A
+# Document
 Personal notes
