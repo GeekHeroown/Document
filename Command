@@ -1,0 +1,2 @@
+网络相关：
+lshw -class network 查看linux系统上每块网卡的详细信息
